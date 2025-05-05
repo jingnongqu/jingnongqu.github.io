@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an incoming PhD student in [linguistics at the University of Washington](https://linguistics.washington.edu/). My research interest lies in the intersection between semantics and computational linguistics. Prior to joining UW, I was at University of California, Los Angeles (UCLA), where I worked on natural language processing under the supervision of [Prof. Kai-Wei Chang](https://web.cs.ucla.edu/~kwchang/).
+I am a first-year PhD student in [linguistics at the University of Washington](https://linguistics.washington.edu/) advised by [Prof. Shane Steinert-Threlkeld](https://www.shane.st/). My research interest lies in the intersection between semantics and computational linguistics. Prior to joining UW, I was at University of California, Los Angeles (UCLA), where I worked on natural language processing under the supervision of [Prof. Kai-Wei Chang](https://web.cs.ucla.edu/~kwchang/).
 
 You can find my CV [here](/files/CV_7_24.pdf) (last updated 7/2024).
 
