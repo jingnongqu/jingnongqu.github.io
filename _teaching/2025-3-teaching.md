@@ -5,7 +5,7 @@ type: "TA"
 permalink: /teaching/ta/2025-01-03-teaching
 venue: "University of Washington, Linguistics"
 date: 2025-10-01
-term: "Autumn 2025, Spring 2025"
+term: "Autumn 2025"
 location: "Seattle WA"
 ---
 
