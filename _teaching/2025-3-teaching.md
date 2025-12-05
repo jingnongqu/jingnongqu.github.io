@@ -9,4 +9,4 @@ term: "Autumn 2025"
 location: "Seattle WA"
 ---
 
-Instructors: [Emily M. Bender](https://faculty.washington.edu/ebender/). Introduction to syntactic analysis and concepts with emphasis on the formally precise encoding in linguistic hypotheses and the design of grammars that can be scaled to practical applications. Coursework progressively builds up a consistent grammar for a fragment of English, while also considering data and phenomena from other languages. 
+Instructor: [Emily M. Bender](https://faculty.washington.edu/ebender/). Introduction to syntactic analysis and concepts with emphasis on the formally precise encoding in linguistic hypotheses and the design of grammars that can be scaled to practical applications. Coursework progressively builds up a consistent grammar for a fragment of English, while also considering data and phenomena from other languages. 
