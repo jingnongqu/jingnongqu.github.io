@@ -22,7 +22,7 @@ redirect_from:
 - September 2018 - June 2022
 - **Summa Cum Laude**
 
-### B.A. in Linguistics and Conputer Science
+### B.A. in Linguistics and Computer Science
 - *University of California, Los Angeles*
 - September 2018 - June 2022
 - **Summa Cum Laude**
