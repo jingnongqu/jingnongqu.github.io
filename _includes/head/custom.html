@@ -25,8 +25,18 @@
 <link rel="stylesheet" href="{{ base_path }}/assets/css/academicons.css"/>
 
 
-<!-- Support for MatJax -->
-<script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+{% comment %}
+  MathJax, loaded only on pages that actually use math.
+  The es6 polyfill that used to sit here was removed: it was render-blocking (no
+  async/defer) and MathJax 3 has not needed it on any current browser for years.
+  kramdown delimits both inline and display math with $$, so that check covers
+  ordinary usage; set `mathjax: true` in a page's front matter to force it on.
+{% endcomment %}
+{% assign has_math = false %}
+{% if page.mathjax %}{% assign has_math = true %}{% endif %}
+{% if page.content contains "$$" %}{% assign has_math = true %}{% endif %}
+{% if has_math %}
 <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+{% endif %}
 
 <!-- end custom head snippets -->
